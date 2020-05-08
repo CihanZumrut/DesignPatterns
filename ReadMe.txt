@@ -1,8 +1,7 @@
 
 Design Patterns
 
-Design patterns are general solution to a commonly occurring problems in software design. A design pattern isn't a finished design that can be transformed directly into code. It is a description or 
-template for how to solve a problem that can be used in many different situations.
+Design patterns are general solution to commonly occurring problems in software design. It is a description or template for how to solve a problem that can be used in many different situations.
 
 
 Types of Design Patterns
